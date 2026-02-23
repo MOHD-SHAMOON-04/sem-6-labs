@@ -83,7 +83,7 @@ void freeDFA(DFA_t *dfa)
 }
 
 /*
- * DFA_config.txt format:
+ * DFA format:
   3     ; number of states
   0     ; initial state
   2     ; number of final states
